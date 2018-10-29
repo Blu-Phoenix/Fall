@@ -9,3 +9,5 @@ var = "five"
 var = 5
 
 print ("I really like python, simply because it is so fast add building prototypes.")
+
+print ("Because var")

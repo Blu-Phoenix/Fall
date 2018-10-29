@@ -1,5 +1,7 @@
 #GITting some practice
+
 ##Michael Royer
+
 This is the first sentence. This is the second sentence. ;-P I'm not much for writing.
 
 My computer is really old, and I recently had a power outage while I was working on it.
